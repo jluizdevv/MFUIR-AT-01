@@ -1,0 +1,57 @@
+.headersMenus {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: 1px solid #000;
+  background-color: #8b3d5d;
+  color: #fff;
+  font-size: 3vh;
+}
+.linkHeader {
+  text-decoration: none;
+  color: #fff;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 15px;
+}
+.containerEvento{
+  width: 30%;
+  border: 1px solid #000;
+  margin: 0 auto;
+  padding: 1%;
+  text-align: left;
+}
+.divEventos{
+  display: flex;
+  padding: 3% 3%;
+}
+.containerCardM{
+  border: 1px solid #000;
+  margin: 2% 0;
+  padding: 1%;
+  display: flex;
+  align-items: center;
+  width: 80vw;
+}
+.imgCard{
+  height: 30px;
+  width: 30px;
+  border-radius: 50px;
+  border: 1px solid #000;
+  margin-left: 4%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.textos{
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  left: 20px;
+  text-align: justify;
+}
+.containerCardsMedium{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+

@@ -1,0 +1,29 @@
+.divInput{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.input{
+    margin: 3% 0;
+    border: 1px solid #000;
+    width: 80%;
+    margin: 3% auto;
+}
+.datasDiv{
+    display: flex;
+    justify-content: center;
+}
+.divData{
+    margin: 5px 2%;
+    border: 1px solid #a32424;
+    padding: 1%;
+    width: 20%;
+}
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px){ 
+    .h1header{
+        text-align: center;
+    }
+  }
+
